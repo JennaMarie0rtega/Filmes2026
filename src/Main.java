@@ -49,6 +49,8 @@ public class Main {
                 assistidos.nome = terminal.nextLine();
                 System.out.println("\n");
 
+                //kayla Axé ioruba
+
                 System.out.println("Digite a data em que assistiu:");
                 System.out.println("\n");
                 assistidos.data = terminal.nextLine();
