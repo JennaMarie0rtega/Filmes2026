@@ -1,4 +1,8 @@
-package PACKAGE_NAME;
-
 public class Filmes {
+
+    String nome = "";
+    String data = "";
+    double avaliacao = 0;
+    String resenha = "";
+
 }
